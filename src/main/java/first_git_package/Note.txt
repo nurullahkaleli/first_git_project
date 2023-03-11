@@ -19,3 +19,4 @@ NOTE: git status    ->   This is our friend. This can be used anytime to see the
         *git add .
         *git commit -m "added my second java class"
         *git push
+
